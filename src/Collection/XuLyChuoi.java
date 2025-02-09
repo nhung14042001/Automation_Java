@@ -26,13 +26,14 @@ public class XuLyChuoi {
         // dem tu so 0 tro len
         //So sánh chuỗi
         //+ So sanh bằng
-        String s4 =" Test Automation ";
+        String s4 =" Test Automation";
         String s5 = "Test Automation ";
         System.out.println(s4.equals(s5));
         //+ So sánh chứa
         System.out.println(s4.contains("Automation"));
         // So sánh bỏ qua in hoa và in thường
         System.out.println(s4.equalsIgnoreCase(s3));
+        System.out.println(s5.equalsIgnoreCase(s3));
 
     }
 }
