@@ -10,7 +10,7 @@ public class Mang_1 {
         number1[2]=10;
         number1[3]=50;
         number1[4]=5;
-        number1[5]=10;
+        number1[5]=40;
         System.out.println("Độ dài mảng = " + number1.length);
         System.out.println("===================");
         System.out.println(number1[3]);
