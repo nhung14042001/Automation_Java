@@ -23,6 +23,7 @@
 hs_err_pid*
 replay_pid*
 Automation_Java.iml
+*.iml
 .idea/
 out/
 *.avi
