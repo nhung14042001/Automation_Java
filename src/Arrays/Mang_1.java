@@ -3,7 +3,7 @@ package Arrays;
 public class Mang_1 {
     public static void main(String[] args) {
         //khai báo mảng rỗng, chưa mang giá trị
-        int number1 []= new int[6];
+        int[] number1 = new int[6];
         // Gán giá trị cho mảng
         number1[0]=40;
         number1[1]=20;
